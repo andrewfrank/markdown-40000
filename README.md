@@ -1,1 +1,1 @@
-  # Formatted 40,000
+# Formatted 40,000
