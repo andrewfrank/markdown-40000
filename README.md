@@ -3,7 +3,7 @@ Games Workshop periodically publishes rules addenda for Warhammer 40,000 as PDFs
 ## Documents
 
 ### Leviathan Tournament Companion Version 1.0
-Original PDF • Markdown
+[Original PDF](docs/leviathan-tournament-companion-version-1.0.pdf) • Markdown
 
 ### Rules Commentary Version 1.0
-Original PDF • Markdown
+[Original PDF](docs/rules-commentary-version-1.0.pdf) • Markdown
