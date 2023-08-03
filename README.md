@@ -14,4 +14,7 @@ Markdown • Markdown PDF
 
 ## Method
 
-Games Workshop PDFs are first converted to .docx using [Smallpdf](https://smallpdf.com/), which is powered by [Solid Documents](http://solidframework.net/). I've found that Solid Documents has the best text formatting fidelity to the original document. The .docx files are then converted to a draft Markdown file using [pandoc](https://pandoc.org/). The draft is then hand edited to correct and improve formatting to generate a final Markdown file. The final Markdown file is then converted back into HTML using pandoc and then converted into a printer-friendly PDF.
+1. Games Workshop PDFs are converted to .docx using [Smallpdf](https://smallpdf.com/), which is powered by [Solid Documents](http://solidframework.net/). (I've found that Solid Documents has the best text formatting fidelity to the original PDF.)
+2. The .docx files are then converted to a draft Markdown file using [pandoc](https://pandoc.org/).
+3. The draft is then hand edited to correct and improve formatting to generate a final Markdown file.
+4. The final Markdown file is then converted back into HTML using pandoc and then converted into a printer-friendly PDF.
