@@ -1,23 +1,25 @@
 # Markdown 40,000
 
+Games Workshop periodically publishes rules documents for Warhammer 40,000 as PDFs. This site provides these PDFs in Markdown format. 
+
 ## Core Rules
 
-- **Core Rules** - Rendered Markdown • Raw Markdown • Printable PDF
-- **Rules Commentary Version 1.0** - Rendered Markdown • Raw Markdown • Printable PDF
+- **Core Rules** • Raw Markdown • Printable PDF
+- **Rules Commentary Version 1.0** • Raw Markdown • Printable PDF
 
 ## Tournament Play
 
-- **Leviathan Tournament Companion Version 1.0** - [Rendered Markdown](docs/leviathan-tournament-companion-version-1.0.md) • [Raw Markdown](https://raw.githubusercontent.com/andrewfrank/markdown-40000/main/docs/leviathan-tournament-companion-version-1.0.md) • [Printable PDF](docs/leviathan-tournament-companion-version-1.0.md.pdf)
+- [**Leviathan Tournament Companion Version 1.0**](docs/leviathan-tournament-companion-version-1.0.md) • [Raw Markdown](https://raw.githubusercontent.com/andrewfrank/markdown-40000/main/docs/leviathan-tournament-companion-version-1.0.md) • [Printable PDF](docs/leviathan-tournament-companion-version-1.0.md.pdf)
 
 ## Missions
 
-- **Fall of Kasr Myrak** - Rendered Markdown • Raw Markdown • Printable PDF
+- **Fall of Kasr Myrak** • Raw Markdown • Printable PDF
 
 ## Additional Modes of Play
 
-- **Combat Patrol** - Rendered Markdown • Raw Markdown • Printable PDF
-- **Boarding Actions** - Rendered Markdown • Raw Markdown • Printable PDF
-- **Boarding Actions Mustering Rules Version 2.0** - Rendered Markdown • Raw Markdown • Printable PDF
+- **Combat Patrol** • Raw Markdown • Printable PDF
+- **Boarding Actions** • Raw Markdown • Printable PDF
+- **Boarding Actions Mustering Rules Version 2.0** • Raw Markdown • Printable PDF
 
 ## Method
 
