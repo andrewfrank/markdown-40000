@@ -2,20 +2,22 @@
 
 Games Workshop periodically publishes rules documents for Warhammer 40,000 as PDFs. This site provides these PDFs in Markdown format. 
 
-## Core Rules
+## Documents
+
+### Core Rules
 
 - **Core Rules** • Raw Markdown • Printable PDF
 - **Rules Commentary Version 1.0** • Raw Markdown • Printable PDF
 
-## Tournament Play
+### Tournament Play
 
 - [**Leviathan Tournament Companion Version 1.0**](docs/leviathan-tournament-companion-version-1.0.md) • [Raw Markdown](https://raw.githubusercontent.com/andrewfrank/markdown-40000/main/docs/leviathan-tournament-companion-version-1.0.md) • [Printable PDF](docs/leviathan-tournament-companion-version-1.0.md.pdf)
 
-## Missions
+### Missions
 
 - **Fall of Kasr Myrak** • Raw Markdown • Printable PDF
 
-## Additional Modes of Play
+### Additional Modes of Play
 
 - **Combat Patrol** • Raw Markdown • Printable PDF
 - **Boarding Actions** • Raw Markdown • Printable PDF
