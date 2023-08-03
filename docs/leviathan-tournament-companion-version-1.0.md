@@ -42,9 +42,9 @@ When setting up terrain features, use the guidelines detailed in the Terrain Lay
 
 When using the *Leviathan Mission Pack*, use the updated cards presented on this page in place of their printed equivalents. Note that both the Attacker and Defender should use the text presented on the Attacker cards shown below. Updated text is shown in red.
 
-<img src="leviathan-tournament-companion-version-1.0/image1.png" width="300"/>
-<img src="leviathan-tournament-companion-version-1.0/image2.png" width="300"/>
-<img src="leviathan-tournament-companion-version-1.0/image3.png" width="300"/>
+![image1](leviathan-tournament-companion-version-1.0/image1.png){: width="33%"}
+![image2](leviathan-tournament-companion-version-1.0/image2.png){: width="33%"}
+![image3](leviathan-tournament-companion-version-1.0/image3.png){: width="33%"}
 
 ## LEVIATHAN TOURNAMENT MISSION POOL
 
@@ -102,11 +102,11 @@ Objective markers can and sometimes will be either hidden within terrain or plac
 
 The following layouts primarily use the Ruins terrain feature. This efficiently achieves a good amount of line-of-sight blockage and cover appropriate for balanced games, thanks to the natural abstraction of line of sight within the rules for Ruins. Remember that a variety of terrain heights not only adds to the immersive nature of the battlefield, but is also important for line of sight and rules such as Plunging Fire. For organisers and players with a more robust terrain collection (especially elements that block true line of sight), incorporating features such as Woods, Barricades and Hills into your chosen layouts is perfectly acceptable.
 
-<img src="leviathan-tournament-companion-version-1.0/image4.png" width="300"/>
-<img src="leviathan-tournament-companion-version-1.0/image5.png" width="600"/>
-<img src="leviathan-tournament-companion-version-1.0/image6.png" width="600"/>
-<img src="leviathan-tournament-companion-version-1.0/image7.png" width="600"/>
-<img src="leviathan-tournament-companion-version-1.0/image8.png" width="600"/>
+![image4](leviathan-tournament-companion-version-1.0/image4.png){: width="33%"}
+![image5](leviathan-tournament-companion-version-1.0/image5.png)
+![image6](leviathan-tournament-companion-version-1.0/image6.png)
+![image7](leviathan-tournament-companion-version-1.0/image7.png)
+![image8](leviathan-tournament-companion-version-1.0/image8.png)
 
 ## PAIRINGS AND RANKINGS
 
