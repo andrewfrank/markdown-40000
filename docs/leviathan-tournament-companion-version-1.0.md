@@ -38,6 +38,8 @@ When setting up terrain features, use the guidelines detailed in the Terrain Lay
 
 > **Reminder:** *During the Select Secondary Missions step, if a player decides to use Tactical Missions, note that the two Secondary Mission cards they place face down and then reveal to their opponent should be returned to their Secondary Mission deck before they reshuffle it (they are not placed to one side or discarded). Before drawing cards in tournament play, it is always good practice to offer your opponent the opportunity to cut your deck.*
 
+<div style="page-break-after: always;"></div>
+
 ## LEVIATHAN CARD UPDATES
 
 When using the *Leviathan Mission Pack*, use the updated cards presented on this page in place of their printed equivalents. Note that both the Attacker and Defender should use the text presented on the Attacker cards shown below. Updated text is shown in red.
@@ -45,6 +47,8 @@ When using the *Leviathan Mission Pack*, use the updated cards presented on this
 <img src="leviathan-tournament-companion-version-1.0/image1.png" width="200"/>
 <img src="leviathan-tournament-companion-version-1.0/image2.png" width="200"/>
 <img src="leviathan-tournament-companion-version-1.0/image3.png" width="200"/>
+
+<div style="page-break-after: always;"></div>
 
 ## LEVIATHAN TOURNAMENT MISSION POOL
 
@@ -82,6 +86,8 @@ When using the recommended terrain layouts in this pack, please note the layouts
 | N | Priority Targets | Chosen Battlefield | Dawn of War | 1, 2, 3
 | O | Vital Ground | Chilling Rain | Crucible of Battle | 1, 3, 4
 
+<div style="page-break-after: always;"></div>
+
 ## TERRAIN LAYOUTS
 
 **The following battlefield recommendations are intended primarily for newer organisers and those looking for a steer in building up a terrain collection for regular tournament play. These layouts will be seen at most Games Workshop matched play events, and reflect the type of terrain density that creates risk-and-reward decisions that a wide variety of army types can engage with. They are by no means the only way to set up a battlefield for balanced play, but represent a reliable starting point when in doubt.**
@@ -103,10 +109,18 @@ Objective markers can and sometimes will be either hidden within terrain or plac
 The following layouts primarily use the Ruins terrain feature. This efficiently achieves a good amount of line-of-sight blockage and cover appropriate for balanced games, thanks to the natural abstraction of line of sight within the rules for Ruins. Remember that a variety of terrain heights not only adds to the immersive nature of the battlefield, but is also important for line of sight and rules such as Plunging Fire. For organisers and players with a more robust terrain collection (especially elements that block true line of sight), incorporating features such as Woods, Barricades and Hills into your chosen layouts is perfectly acceptable.
 
 <img src="leviathan-tournament-companion-version-1.0/image4.png" width="300"/>
+
+<div style="page-break-after: always;"></div>
+
 <img src="leviathan-tournament-companion-version-1.0/image5.png" width="600"/>
 <img src="leviathan-tournament-companion-version-1.0/image6.png" width="600"/>
+
+<div style="page-break-after: always;"></div>
+
 <img src="leviathan-tournament-companion-version-1.0/image7.png" width="600"/>
 <img src="leviathan-tournament-companion-version-1.0/image8.png" width="600"/>
+
+<div style="page-break-after: always;"></div>
 
 ## PAIRINGS AND RANKINGS
 
@@ -142,6 +156,8 @@ In many tournaments, the overall Best General will be the single remaining undef
 #### *The Rules Commentary*
 
 There are myriad ways to enjoy the Warhammer hobby, and these all manifest themselves at a tournament: gifted hobbyists with beautiful armies, skilled competitors aiming for Best General, casual players looking to face new opponents and make new friends (by far the most common type of attendee), and even practitioners of the niche hobby of Rules Lawyer! These particular hobbyists often find unusual rules interactions at the very fringes of Warhammer 40,000, which can create interesting challenges for tournament organisers looking to provide clear answers and an easy gaming experience for their attendees. For the current edition, the Warhammer Design Studio has created its most robust and comprehensive Rules Commentary to date. Available to download on *warhammer-community.com*, this living document will be reviewed periodically to clarify any issues that may be causing uncertainty. Should an odd rules interaction come up during your event and the Core Rules do not provide a clear answer, we recommend consulting the Rules Commentary.
+
+<div style="page-break-after: always;"></div>
 
 ## AFTERWORD
 
