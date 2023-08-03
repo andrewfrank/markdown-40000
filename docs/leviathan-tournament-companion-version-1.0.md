@@ -113,11 +113,13 @@ The following layouts primarily use the Ruins terrain feature. This efficiently 
 <div style="page-break-after: always;"></div>
 
 <img src="leviathan-tournament-companion-version-1.0/image5.png" width="600"/>
+
 <img src="leviathan-tournament-companion-version-1.0/image6.png" width="600"/>
 
 <div style="page-break-after: always;"></div>
 
 <img src="leviathan-tournament-companion-version-1.0/image7.png" width="600"/>
+
 <img src="leviathan-tournament-companion-version-1.0/image8.png" width="600"/>
 
 <div style="page-break-after: always;"></div>
