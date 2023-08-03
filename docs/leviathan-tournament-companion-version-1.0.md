@@ -42,9 +42,9 @@ When setting up terrain features, use the guidelines detailed in the Terrain Lay
 
 When using the *Leviathan Mission Pack*, use the updated cards presented on this page in place of their printed equivalents. Note that both the Attacker and Defender should use the text presented on the Attacker cards shown below. Updated text is shown in red.
 
-<img src="docs/leviathan-tournament-companion-version-1.0/image1.png" width="300"/>
-<img src="docs/leviathan-tournament-companion-version-1.0/image2.png" width="300"/>
-<img src="docs/leviathan-tournament-companion-version-1.0/image3.png" width="300"/>
+<img src="docs/leviathan-tournament-companion-version-1.0/image1.png" width="200"/>
+<img src="docs/leviathan-tournament-companion-version-1.0/image2.png" width="200"/>
+<img src="docs/leviathan-tournament-companion-version-1.0/image3.png" width="200"/>
 
 ## LEVIATHAN TOURNAMENT MISSION POOL
 
