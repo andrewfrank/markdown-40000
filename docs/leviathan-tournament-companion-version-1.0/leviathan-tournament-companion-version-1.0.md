@@ -156,4 +156,4 @@ Before you roll a single dice against an opponent to start your tournament exper
 
 While any game often yields winners and losers on the tabletop, the magic of Warhammer in an event setting is the opportunity it provides every participant to become a bigger part of the Warhammer community, and to build friendships with fellow hobbyists that can last a lifetime. As an organiser or a player, if you focus on this inalienable truth, then while most of you will have lost a game or two, you'll all share victory in your experience of what it is to attend a Warhammer event.
 
-*~ The Warhammer Events Team and the Warhammer Design Studio*
+*- The Warhammer Events Team and the Warhammer Design Studio*
