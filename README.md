@@ -1,42 +1,40 @@
 # Markdown 40,000
 
-## Documents
+## Core Rules
 
 ### Core Rules
 
-#### Core Rules
+Rendered Markdown • Raw Markdown • Printable PDF
+
+### Rules Commentary Version 1.0
 
 Rendered Markdown • Raw Markdown • Printable PDF
 
-#### Rules Commentary Version 1.0
+## Tournament Play
 
-Rendered Markdown • Raw Markdown • Printable PDF
-
-### Tournament Play
-
-#### Leviathan Tournament Companion Version 1.0
+### Leviathan Tournament Companion Version 1.0
 
 [Rendered Markdown](docs/leviathan-tournament-companion-version-1.0.md) •
 [Raw Markdown](https://raw.githubusercontent.com/andrewfrank/markdown-40000/main/docs/leviathan-tournament-companion-version-1.0.md) • 
 [Printable PDF](docs/leviathan-tournament-companion-version-1.0.md.pdf)
 
-### Missions
+## Missions
 
-#### Fall OF Kasr Myrak
-
-Rendered Markdown • Raw Markdown • Printable PDF
-
-### Additional Modes of Play
-
-#### Combat Patrol
+### Fall OF Kasr Myrak
 
 Rendered Markdown • Raw Markdown • Printable PDF
 
-#### Boarding Actions
+## Additional Modes of Play
+
+### Combat Patrol
 
 Rendered Markdown • Raw Markdown • Printable PDF
 
-#### Boarding Actions Mustering Rules Version 2.0
+### Boarding Actions
+
+Rendered Markdown • Raw Markdown • Printable PDF
+
+### Boarding Actions Mustering Rules Version 2.0
 
 Rendered Markdown • Raw Markdown • Printable PDF
 
