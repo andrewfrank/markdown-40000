@@ -1,6 +1,6 @@
 # Markdown 40,000
 
-Games Workshop periodically publishes rules documents for Warhammer 40,000 as PDFs. This site provides these PDFs in Markdown format. 
+Games Workshop periodically publishes rules documents for Warhammer 40,000 as PDFs. This site provides these PDFs in Markdown format.
 
 ## Documents
 
@@ -13,15 +13,15 @@ Games Workshop periodically publishes rules documents for Warhammer 40,000 as PD
 
 - [**Leviathan Tournament Companion Version 1.0**](docs/leviathan-tournament-companion-version-1.0.md) • [Raw Markdown](https://raw.githubusercontent.com/andrewfrank/markdown-40000/main/docs/leviathan-tournament-companion-version-1.0.md) • [Printable PDF](docs/leviathan-tournament-companion-version-1.0.md.pdf)
 
-### Missions
-
-- **Fall of Kasr Myrak** • Raw Markdown • Printable PDF
-
 ### Additional Modes of Play
 
 - **Combat Patrol** • Raw Markdown • Printable PDF
 - **Boarding Actions** • Raw Markdown • Printable PDF
 - **Boarding Actions Mustering Rules Version 2.0** • Raw Markdown • Printable PDF
+
+### Missions
+
+- **Fall of Kasr Myrak** • Raw Markdown • Printable PDF
 
 ## Method
 
@@ -35,11 +35,15 @@ The final Markdown file is then converted back into HTML using pandoc and then c
 
 ## FAQs
 
-### Why aren't all Games Workshop PDFs featured?
+### Do you feature documents from Warhammer 40,000 editions prior to 10th edition?
 
-Not all of the Games Workshop documents are amenable to a purely text-based format. For example, the point values found in the Munitorum Field Manual are better stored in data specific formats such as JSONs or CSVs.
+No, not at this time.
 
-### Where can I obtain Games Workshop point values, army specific rules, or unit specific rules that have been publicly released?
+### Why aren't all Warhammer 40,000 10th edition PDFs featured?
+
+Not all of the documents are amenable to a purely text-based format. For example, the point values found in the Munitorum Field Manual are better stored in data specific formats, such as JSON or CSV.
+
+### Where can I obtain Warhammer 40,000 10th edition point values, army specific rules, or unit specific rules that have been publicly released?
 
 For point values found in the Munitorm Field Manual and rules found in the army indicies and their associated errata, see the [BSData Warhammer 40,000 10th edition GitHub repository](https://github.com/BSData/wh40k-10e) or the [Game Datacards datasource repository](https://github.com/game-datacards/datasources).
 
